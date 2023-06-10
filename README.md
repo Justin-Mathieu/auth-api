@@ -48,6 +48,5 @@ Run the command npm test with dependencies installed.
 
 ## TODO
 
-- Get routes to work!
 - Testing...
 - Deploy.
