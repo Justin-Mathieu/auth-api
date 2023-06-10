@@ -1,7 +1,6 @@
 const supertest = require('supertest');
 const { db } = require('../src/models/index');
 const { server } = require('../src/server');
-const { password } = require('pg/lib/defaults');
 
 const request = supertest(server);
 
