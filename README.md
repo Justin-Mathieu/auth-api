@@ -12,8 +12,8 @@ Combining auth and api server.
 
 ## Links and Resources
 
-[GitHub Actions]()  
-[back-end prod url]()  
+[GitHub Actions](https://github.com/Justin-Mathieu/auth-api/actions)  
+[back-end prod url](https://auth-api-ppjs.onrender.com)  
 
 ## Collaborators
 
@@ -48,6 +48,5 @@ Run the command npm test with dependencies installed.
 
 ## TODO
 
-- Get routes to work!
 - Testing...
 - Deploy.
